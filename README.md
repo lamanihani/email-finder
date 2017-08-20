@@ -1,5 +1,6 @@
 # email-finder
 python script to find anyone email
+NOTE : Works only with gmail , I will devolop the script to include most emails :D
 ___________________________________
 
 Hello Friend :
