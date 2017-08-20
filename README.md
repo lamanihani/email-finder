@@ -7,9 +7,13 @@ NOTE : Works only with gmail , I will devolop the script to include most emails 
 ___________________________________
 
 # principle of the script : 
+
  1- you will be asked to enter the victims information 
+ 
  2- it creates EMAIL-LIST of the victims information
+ 
  3- starts to check the EMAIL-LIST 
+ 
  4- write emails that work in a text file : victime-emails.txt
  ____________________________________
  # how to :
